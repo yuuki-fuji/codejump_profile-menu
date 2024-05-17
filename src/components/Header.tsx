@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <header id="header" className="flex justify-between items-center mx-auto py-[10px] wrapper">
+    <header id="header" className="flex justify-between items-center mx-auto py-[10px] wrapper leading-none">
       <h1 className="w-[120px]">
         <img src="/logo.svg" alt="logo" />
       </h1>
