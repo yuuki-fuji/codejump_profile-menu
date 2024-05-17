@@ -16,3 +16,13 @@ https://code-jump.com/profile-menu/
 npm install
 npm run dev
 ```
+
+## Create project
+```
+mkdir profile-menu
+cd profile-menu
+
+npm create vite@latest . -- --template react-ts
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p 
+```
