@@ -24,5 +24,7 @@ ul, ol, li {
 
 /* custom */
 .wrapper {
-  @apply max-w-wrapper;
+  max-width: 960px;
+  padding: 0 4%;
+  text-align: center;
 }

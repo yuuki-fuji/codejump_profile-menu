@@ -10,9 +10,6 @@ export default {
         "primary": "#393E46",
         "secondary": "#24292E",
       },
-      maxWidth: {
-        "wrapper": "960px",
-      },
     },
   },
   plugins: [],
