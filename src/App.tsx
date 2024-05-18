@@ -3,6 +3,7 @@ import MainVisual from './components/MainVisual'
 import './App.css'
 import About from './components/About'
 import Bicycle from './components/Bicycle'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
         <About />
         <Bicycle />
       </main>
+      <Footer />
     </>
   )
 }
