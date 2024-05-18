@@ -9,6 +9,7 @@ html {
 }
 body {
   @apply text-primary;
+  font-family: 'Meiryo', sans-serif;
 }
 a {
   text-decoration: none;
@@ -26,5 +27,6 @@ ul, ol, li {
 .wrapper {
   max-width: 960px;
   padding: 0 4%;
+  margin: 0 auto 100px auto;
   text-align: center;
 }
