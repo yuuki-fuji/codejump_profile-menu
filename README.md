@@ -31,3 +31,6 @@ npx tailwindcss init -p
 * content width: 960px, padding: 4%
 * main visual height: 600px
 * responsive breakpoint: 600px
+
+## Product
+![image](https://github.com/yuuki-fuji/codejump_profile-menu/assets/68770062/94834e01-020c-43bc-8dfd-d47a84332589)
